@@ -36,10 +36,14 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.0"
+    "react-native": "0.73.0",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "0.70.0"
   },
   "devDependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.0"
+    "react-native": "0.73.0",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "0.70.0"
   }
 }
